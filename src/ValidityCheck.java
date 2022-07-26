@@ -1,4 +1,4 @@
-package Sudoku;
+package SudokuSolver.src;
 import java.util.HashSet;
 
 class ValidityCheck {
