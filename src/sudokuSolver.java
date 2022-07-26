@@ -1,4 +1,4 @@
-package Sudoku;
+package SudokuSolver.src;
 
 class SudokuSolver {
     
