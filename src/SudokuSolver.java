@@ -1,5 +1,3 @@
-package SudokuSolver.src;
-
 class SudokuSolver {
     
     public boolean isSafe(char[][] board, int row, int col, char num) {
